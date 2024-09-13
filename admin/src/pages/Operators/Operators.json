@@ -1,0 +1,109 @@
+{
+  "operators": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "type": "Machine Operator",
+      "shift": "Day",
+      "status": "Active",
+      "contact": {
+        "phone": "555-1234",
+        "email": "johndoe@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP001",
+        "name": "John Smith"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "type": "Control Room Operator",
+      "shift": "Night",
+      "status": "Active",
+      "contact": {
+        "phone": "555-5678",
+        "email": "janesmith@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP002",
+        "name": "Emily Davis"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Michael Brown",
+      "type": "Field Operator",
+      "shift": "Day",
+      "status": "Active",
+      "contact": {
+        "phone": "555-8765",
+        "email": "michaelbrown@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP003",
+        "name": "Robert Lee"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Sarah Wilson",
+      "type": "IT Operator",
+      "shift": "Day",
+      "status": "Active",
+      "contact": {
+        "phone": "555-4321",
+        "email": "sarahwilson@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP004",
+        "name": "Susan Clark"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Chris Johnson",
+      "type": "Customer Service Operator",
+      "shift": "Night",
+      "status": "Active",
+      "contact": {
+        "phone": "555-6789",
+        "email": "chrisjohnson@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP005",
+        "name": "Michael Brown"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Emma Garcia",
+      "type": "Logistics Operator",
+      "shift": "Day",
+      "status": "Active",
+      "contact": {
+        "phone": "555-9876",
+        "email": "emmagarcia@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP001",
+        "name": "John Smith"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Oliver Martinez",
+      "type": "Medical Operator",
+      "shift": "Night",
+      "status": "Active",
+      "contact": {
+        "phone": "555-6543",
+        "email": "olivermartinez@example.com"
+      },
+      "assigned_supervisor": {
+        "id": "SUP002",
+        "name": "Emily Davis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.horizontal-bar {
+  position: fixed;
+  top: 0;
+  left: 50px;
+  width: calc(100% - 50px);
+  height: 50px;
+  z-index: 100;
+}
+
+.vertical-bar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 50px;
+  z-index: 100;
+}

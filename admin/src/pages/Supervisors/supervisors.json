@@ -1,0 +1,69 @@
+{
+  "supervisors": [
+    {
+      "id": "SUP001",
+      "name": "John Smith",
+      "role": "Mine Supervisor",
+      "experience_years": 15,
+      "department": "Operations",
+      "contact": {
+        "phone": "+1-555-1234",
+        "email": "john.smith@coalmining.com"
+      },
+      "shift": "Day",
+      "availability": "Available"
+    },
+    {
+      "id": "SUP002",
+      "name": "Emily Davis",
+      "role": "Safety Supervisor",
+      "experience_years": 10,
+      "department": "Safety",
+      "contact": {
+        "phone": "+1-555-5678",
+        "email": "emily.davis@coalmining.com"
+      },
+      "shift": "Day",
+      "availability": "Available"
+    },
+    {
+      "id": "SUP003",
+      "name": "Robert Lee",
+      "role": "Maintenance Supervisor",
+      "experience_years": 12,
+      "department": "Maintenance",
+      "contact": {
+        "phone": "+1-555-8765",
+        "email": "robert.lee@coalmining.com"
+      },
+      "shift": "Night",
+      "availability": "On Leave"
+    },
+    {
+      "id": "SUP004",
+      "name": "Susan Clark",
+      "role": "Environmental Supervisor",
+      "experience_years": 8,
+      "department": "Environmental Management",
+      "contact": {
+        "phone": "+1-555-2345",
+        "email": "susan.clark@coalmining.com"
+      },
+      "shift": "Day",
+      "availability": "Available"
+    },
+    {
+      "id": "SUP005",
+      "name": "Michael Brown",
+      "role": "Ventilation Supervisor",
+      "experience_years": 7,
+      "department": "Ventilation",
+      "contact": {
+        "phone": "+1-555-6789",
+        "email": "michael.brown@coalmining.com"
+      },
+      "shift": "Night",
+      "availability": "Busy"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "payrolls": [
+      {
+        "payrollId": "P001",
+        "userId": "U001",
+        "shiftId": "S001",
+        "hoursWorked": 160,
+        "overtimeHours": 10,
+        "salary": 3000
+      },
+      {
+        "payrollId": "P002",
+        "userId": "U002",
+        "shiftId": "S002",
+        "hoursWorked": 150,
+        "overtimeHours": 5,
+        "salary": 2800
+      },
+      {
+        "payrollId": "P003",
+        "userId": "U003",
+        "shiftId": "S003",
+        "hoursWorked": 170,
+        "overtimeHours": 15,
+        "salary": 3200
+      },
+      {
+        "payrollId": "P004",
+        "userId": "U004",
+        "shiftId": "S004",
+        "hoursWorked": 165,
+        "overtimeHours": 8,
+        "salary": 3100
+      }
+    ]
+  }
+  

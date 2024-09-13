@@ -1,0 +1,11 @@
+.icon-container svg {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-container {
+  display: grid;
+  place-content: center;
+  border-radius: 50%;
+}
